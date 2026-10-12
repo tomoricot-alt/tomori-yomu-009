@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "TOMORI YOMU",
+    "slug": "tomori-yomu-009",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["web", "ios", "android"],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png",
+      "name": "TOMORI YOMU",
+      "shortName": "YOMU",
+      "backgroundColor": "#FFF8E7",
+      "themeColor": "#E8833A",
+      "lang": "ja"
+    },
+    "experiments": {
+      "baseUrl": "/tomori-yomu-009"
+    }
+  }
+}
